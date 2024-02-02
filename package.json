@@ -1,0 +1,16 @@
+{
+  "name": "typescript-with-parcel-train-2024",
+  "version": "1.0.0",
+  "scripts": {
+    "prettier": "prettier --write .",
+    "start": "(npx parcel ./index.html) & npx parcel watch ./index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "2.11.0",
+    "prettier": "2.5.0"
+  }
+}
